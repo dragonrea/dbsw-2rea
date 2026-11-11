@@ -1,6 +1,6 @@
 # DBZ: Supersonic Warriors 2 — EU Mod V0.1
 
-This download contains a patch, not a Nintendo DS ROM or save file.
+This download contains a patch, not a Nintendo DS ROM.
 Apply it to your own legally obtained, clean European ROM.
 
 ## Required original ROM
@@ -29,7 +29,7 @@ Command-line equivalent (xdelta3 must be installed):
 xdelta3 -d -s "clean.nds" "DBZ_SW2_EU_Mod_V0.1.xdelta" "DBZ_SW2_EU_Mod_V0.1.nds"
 ```
 
-Do not overwrite your original ROM. No ROM download or save file is provided.
+Do not overwrite your original ROM. No ROM download provided.
 Back up existing saves before using a mod. An emulator may expect a save with
 the same filename stem as the new output ROM; use a copy, not your only save.
 
