@@ -1,5 +1,3 @@
-# Never publish ROMs or game files
+# Never publish ROMs
 *.nds
-*.sav
-*.dsv
 .DS_Store
