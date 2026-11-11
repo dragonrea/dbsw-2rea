@@ -1,0 +1,16 @@
+{
+  "version": "V0.1",
+  "game_code": "ADBP",
+  "patch_format": "VCDIFF/xdelta3",
+  "patch_file": "DBZ_SW2_EU_Mod_V0.1.xdelta",
+  "patch_sha256": "272a949fb002bbfde971eb55c40ef1abd3d7704f6ed68a593f7c8a1a2d29b9ce",
+  "patch_size": 2833371,
+  "base_size": 67108864,
+  "base_sha256": "61e4e693854a0c27db8a376f35de827d6fe49404c22c86e8519a235a14b63098",
+  "output_name": "DBZ_SW2_EU_Mod_V0.1.nds",
+  "output_size": 65285832,
+  "output_sha256": "6380343a0972742c0e06f48ae639b12d3953f790430a7e22d5327899ebbcf924",
+  "secondary_compression": "none",
+  "rom_or_save_included": false,
+  "round_trip_verified": true
+}

@@ -1,0 +1,25 @@
+CREDITS AND THIRD-PARTY NOTICE — V0.1
+
+Borrowed Battle Arena v1.3 character/variant infrastructure and selected
+resources: Alejandro Bujan.
+Project: https://github.com/alejandrobujan/dbsw-battle-arena
+Reported upstream license: Creative Commons Attribution-NonCommercial-
+ShareAlike 4.0 International (CC BY-NC-SA 4.0).
+License: https://creativecommons.org/licenses/by-nc-sa/4.0/
+Legal text: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+
+Changes in this project include selective integration into the original EU
+menus/progression, EX/EP selection changes, stage layout integration, private
+attack-effect adapters, bug fixes and Neko SP/icon restoration. This is not an
+unmodified Battle Arena release. Preserve upstream credit and applicable
+NonCommercial/ShareAlike conditions for the licensed contributions and their
+adaptations. This notice does not grant rights in the original game or other
+material that upstream did not have authority to license.
+
+Dragon Ball and the original game, characters, artwork and audio remain the
+property of their respective rights holders. No affiliation or endorsement
+is claimed. No ROM, save, screenshot or separately extracted game asset is
+included. This package contains a binary modification patch and documentation.
+
+xdelta3 3.0.11 was used to generate and verify the patch. xdelta3 is a separate
+open-source patching utility; its executable is not included in this package.
